@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JessAyer
 - 👀 I’m interested in dancing, hiking, coding, and just hanging out with my pup.
-- 🌱 I’m currently learning Python, JAVA, and C++. I am a student studying CS.
-- 💞️ I’m looking to collaborate on: I'm a student still finding my niche so any experiance I can gain will be beneficially to my future. 
+- 🌱 I am a student working on a Bachelors in CS so most of my repsoitories are projects from school.
+- 💞️ I’m looking to collaborate on: I'm still finding my niche so any experiance I can gain will be beneficially to my future. 
 - 📫 How to reach me jessayer@gmail.com
 
 <!---
